@@ -1,0 +1,9 @@
+[submodule "external/lang"]
+	path = external/lang
+	url = https://github.com/PsychyBruh/translations
+[submodule "external/components"]
+	path = external/components
+	url = https://github.com/PsychyBruh/components
+[submodule "external/revolt.js"]
+	path = external/revolt.js
+	url = https://github.com/PsychyBruh/revolt.js
